@@ -1,3 +1,6 @@
+# if you want to run the application then first you will install the node modules by using the (npm i) because without node module we can not run the application. After Write this command then run the application by using the (npm run dev) to run the appliaction.
+
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
